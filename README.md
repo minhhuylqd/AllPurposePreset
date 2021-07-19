@@ -1,0 +1,2 @@
+# AllPurposePreset
+EasyEffects preset
