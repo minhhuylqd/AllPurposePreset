@@ -4,7 +4,7 @@ This is a preset for [EasyEffects](https://github.com/wwmm/easyeffects) base on 
 
 <br/>
 
-## Automate Install 
+## Automated Install 
 
 Clone this repo
 
