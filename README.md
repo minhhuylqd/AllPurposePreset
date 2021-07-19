@@ -12,9 +12,10 @@ Clone this repo
 git clone https://github.com/minhhuylqd/AllPurposePreset.git
 ```
 
-Run the install script. The current install script does not support Flatpak install, yet.
+Change the direction to the repo's folder, then run the install script. The current install script does not support Flatpak install, yet.
 
 ```
+cd AllPurposePreset
 ./install.sh
 ```
 
