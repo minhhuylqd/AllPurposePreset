@@ -5,7 +5,6 @@ This is a preset for [EasyEffects](https://github.com/wwmm/easyeffects) base on 
 <br/>
 
 ## Automate Install 
----
 
 Clone this repo
 
@@ -22,5 +21,4 @@ Run the install script. The current install script does not support Flatpak inst
 <br/>
 
 ## Manual Install
----
 Download `AllPurpose.json` file and copy to `~/.config/easyeffects/output` folder. Launch (restart) EasyEffects, apply the preset.
